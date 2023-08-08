@@ -1,5 +1,7 @@
 # hi (ᵔ◡ᵔ) 
 
+## contacts:
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pipupopi) 
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/pipupopi)
 
