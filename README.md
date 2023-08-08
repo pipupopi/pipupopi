@@ -1,7 +1,8 @@
-## hi (ᵔ◡ᵔ) 
+# hi (ᵔ◡ᵔ) 
 
 ## contacts:
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/pipupopi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](ссылка_на_ваш_linkedin)
 
 ![giphy](https://github.com/pipupopi/pipupopi/assets/108987663/14f2049e-f168-4175-abbb-8572c65923e5)
 
