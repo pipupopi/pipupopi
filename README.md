@@ -1,4 +1,4 @@
-# hi (ᵔ◡ᵔ)
+# hi!
 
 ![giphy](https://github.com/pipupopi/pipupopi/assets/108987663/14f2049e-f168-4175-abbb-8572c65923e5)
 ## stack:
